@@ -1,8 +1,8 @@
 ---
-title: Accueil
+title: "Marielle Lemaître - Legislatives 2024"
 order: 0
+in_menu: true
 ---
-
 <header>
   <div>
     <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
@@ -201,4 +201,4 @@ order: 0
 
 <section class="footer">
     Candidature de la X circonscription de Y.
-</section>
+</section> 
