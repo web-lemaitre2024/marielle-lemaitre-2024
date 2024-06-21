@@ -5,7 +5,7 @@ in_menu: true
 ---
 <header>
   <div>
-    <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
+    <img src="./images/logo-NFP.png" alt="Logo : Nouveau Front Populaire" />
   </div>
 
   <div>
@@ -15,7 +15,7 @@ in_menu: true
 
 <section class="entete">
   <div>
-    <img alt="" src="./images/candidate-1.png"> 
+    <img alt="Mme Marielle Lemaître" src="./images/candidate-1.png"> 
 
     <div class="buttons" role="list">
       <div role="listitem">
@@ -73,7 +73,7 @@ in_menu: true
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="" src="./images/candidate-1.png">
+        <img alt="Mme Marielle Lemaître" src="./images/candidate-1.png">
       </div>
 
       <div>
@@ -100,7 +100,7 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="" src="./images/candidate-2.png">
+        <img alt="Mme Marielle Lemaître" src="./images/candidate-2.png">
       </div>
 
       <div>
@@ -139,16 +139,16 @@ in_menu: true
 
     <ul>
       <li>
-          <img alt="Les écologistes Europe Écologie Les Verts" src="./images/les-ecologistes.png">
+          <img alt="Logo : Les écologistes Europe Écologie Les Verts" src="./images/les-ecologistes.png">
       </li>
       <li>
-        <img alt="La France insoumise" src="./images/lfi.png">
+        <img alt="Logo : La France Insoumise" src="./images/lfi.png">
       </li>
       <li>
-        <img alt="PCF Parti communiste français" src="./images/pcf.png">
+        <img alt="Logo : PCF Parti communiste français" src="./images/pcf.png">
       </li>
       <li>
-        <img alt="Le Parti socialiste" src="./images/ps.png">
+        <img alt="Logo : Le Parti socialiste" src="./images/ps.png">
       </li>
     </ul>
 
@@ -190,7 +190,7 @@ in_menu: true
 
 <section class="villes">
   <div>
-    <img src="./images/logo-NFP-rouge.png" alt="Nouveau Front Populaire">
+    <img src="./images/logo-NFP-rouge.png" alt="Logo : Nouveau Front Populaire">
     
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
