@@ -9,7 +9,7 @@ in_menu: true
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Marielle Lemaître !</h1>
   </div>
 </header>
 
@@ -104,7 +104,7 @@ in_menu: true
       </div>
 
       <div>
-        <h2>Nom Prénom - suppléante</h2>
+        <h2>Philippe Le Bourdon - suppléant</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
         <ul>
@@ -195,10 +195,10 @@ in_menu: true
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-    <p>Que vous soyez électeur ou électrice à Nom de ville 1, Nom de ville 2, Nom de ville 3… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
+    <p>Que vous soyez électeur ou électrice dans les cantons de Lannion, Lézardrieux, Paimpol, Perros-Guirec, Plestin-les-Grèves, Plouaret, La Roche-Derrien ou Tréguier, chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
   </div>
 </section>
 
 <section class="footer">
-    Candidature de la X circonscription de Y.
+    Candidature de la 5e circonscription des Côtes-d'Armor (Lannion – Paimpol).
 </section> 
